@@ -1,11 +1,10 @@
-import React from "react"
-
 export default function Header() {
 
     return (
         <section>
-            <h1>Cover Letter Generator</h1>
-            <p>Create a quick cover letter. Make sure to check and edit the document for your purposes</p>
+            <h1>Jason's Internal AI Tools</h1>
+            <p>Various tools for creating content</p>
+            <p>GPT-3 / Mid Journey / Dalle</p>
         </section>
         
     )
